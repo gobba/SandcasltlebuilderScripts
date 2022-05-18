@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Sandcastle Builder Redundakitty Clicker
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Taken from https://www.reddit.com/r/SandcastleBuilder/comments/ocjafr/updated_redundakitty_timerautoclicker/
 // @author       Gobba
 // @match        http://castle.chirpingmustard.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @downloadURL	 https://github.com/gobba/SandcasltlebuilderScripts/raw/main/Sandcastle%20Builder%20Redundakitty%20Clicker.user.js
 // ==/UserScript==
 
 (function() {
